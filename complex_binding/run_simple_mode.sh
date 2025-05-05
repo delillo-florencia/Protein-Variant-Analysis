@@ -1,0 +1,1 @@
+nohup mutatex AF_trimmed_BRCA_DSS1_final.pdb -p 4 -m mutation_list.txt -x /home/ctools/foldx/foldx -f suite5 -R repair_runfile_template.txt -M mutate_runfile_template.txt -q poslist.txt -L -l -v -C none -B -I interface_runfile_template.txt &

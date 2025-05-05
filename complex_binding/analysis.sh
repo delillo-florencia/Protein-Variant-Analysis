@@ -1,0 +1,2 @@
+ddg2excel -p AF_trimmed_BRCA_DSS1_final.pdb -l mutation_list.txt -q poslist.txt -d results/interface_ddgs/final_averages/A-B/ -F csv
+ddg2heatmap -p AF_trimmed_BRCA_DSS1_final.pdb -l mutation_list.txt -q poslist.txt -d results/interface_ddgs/final_averages/A-B/
