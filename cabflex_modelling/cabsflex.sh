@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #VARIABLES
-pdb='trimmed_BRCA.pdb.pdb'
+pdb='trimmed_BRCA.pdb'
 medoids=10
 montecarlo=30
 annealing_cycles=10
