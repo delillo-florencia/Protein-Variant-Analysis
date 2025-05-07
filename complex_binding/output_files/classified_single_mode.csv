@@ -1,0 +1,6 @@
+WT residue type,chain ID,Residue #,G,A,V,L,I,M,F,W,P,S,T,C,Y,N,Q,D,E,K,R,H
+R,B,2520,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,destabilizing,neutral,destabilizing
+V,B,2687,neutral,neutral,neutral,neutral,neutral,neutral,destabilizing,destabilizing,neutral,neutral,neutral,neutral,destabilizing,neutral,neutral,0.88492,destabilizing,neutral,neutral,destabilizing
+T,B,2790,neutral,neutral,neutral,neutral,neutral,-1.05474,-1.14306,neutral,0.96584,neutral,neutral,neutral,neutral,neutral,neutral,destabilizing,destabilizing,-0.98144,stabilizing,neutral
+P,B,2800,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral
+Q,B,3036,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral
