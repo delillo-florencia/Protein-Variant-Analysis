@@ -1,6 +1,6 @@
 # Mutation Analysis Project Overview 
 
-Report: [📄 View the full documentation (PDF)](docs/report.pdf)
+[📄 View the full report (PDF)](docs/report.pdf)
 
 This project focuses on the analysis of protein mutations and their effects on structural stability and binding affinity. It is divided into four key components:
 
